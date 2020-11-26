@@ -1,3 +1,5 @@
+Forked so I can peruse the code and get a feel for how this thing works ^_^
+
 [![Build Status](https://travis-ci.org/crawl/crawl.svg?branch=master)](https://travis-ci.org/crawl/crawl)
 
 # Dungeon Crawl Stone Soup
